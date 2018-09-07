@@ -3,7 +3,7 @@
 **Description:** This is my xfce setup on the Arch Linux distribution, featuring Arc Darker terminal color scheme, dark and white elements, Qt5 Arc Darker theme and [Blobmoji](https://github.com/C1710/blobmoji) as system emojis. I used xfwm 4.13 for Epoxy. <br />
 My theme edits are found withing my repository listing on GitHub.
 <br />
-##### Font config
+#### Font config
 **NOTE:** Make sure to have [Blobmoji](https://github.com/C1710/blobmoji) installed for this to work!<br />
 **/etc/fonts/conf.d/01-notosans.conf**
 ```xml
