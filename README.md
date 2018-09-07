@@ -4,7 +4,7 @@
 My theme edits are found withing my repository listing on GitHub.
 <br />
 ##### Font config
-**NOTE:** Make sure to have [Blobmoji](https://github.com/C1710/blobmoji) installed for this to work!
+**NOTE:** Make sure to have [Blobmoji](https://github.com/C1710/blobmoji) installed for this to work!<br />
 **/etc/fonts/conf.d/01-notosans.conf**
 ```xml
 <?xml version="1.0" ?>
