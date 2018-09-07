@@ -54,6 +54,13 @@ My theme edits are found withing my repository listing on GitHub.
 </match>
 </fontconfig>
 ```
+# Qt5 Arc Darker theme
+I use [Kvantum](https://github.com/tsujan/Kvantum) which is set to use Arc Darker from [arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) in my Qt5ct configuration tool.
+#### Here's a preview of how it looks when set
+![img4](https://github.com/Vixtron/xfce/blob/master/images/qt5ct.png)
+
+![img5](https://github.com/Vixtron/xfce/blob/master/images/kvantum.png)
+
 #### Theme previews
 ![img1](https://github.com/Vixtron/xfce/blob/master/images/wallpaper.jpg)
 
