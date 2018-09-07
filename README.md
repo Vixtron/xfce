@@ -2,6 +2,7 @@
 
 **Description:** This is my xfce setup on the Arch Linux distribution, featuring Arc Darker terminal color scheme, dark and white elements, Qt5 Arc Darker theme and [Blobmoji](https://github.com/C1710/blobmoji) as system emojis. I used xfwm 4.13 for Epoxy. <br />
 My theme edits are found withing my repository listing on GitHub.
+
 <br />
 **Getting the Konsole theme to work:** Move the 'Arc Dark.colors' file to **~/.kde4/share/apps/color-schemes/** and then select it in your profile editor.
 #### Font config
