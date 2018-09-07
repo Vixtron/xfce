@@ -56,7 +56,11 @@ Cursor theme is [DMZ white](https://www.gnome-look.org/p/999970/).
 </fontconfig>
 ```
 # Qt5 Arc Darker theme
-I use [Kvantum](https://github.com/tsujan/Kvantum) which is set to use Arc Darker from [arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) in my Qt5ct configuration tool.
+I use [Kvantum](https://github.com/tsujan/Kvantum) which is set to use Arc Darker from [arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) in my Qt5ct configuration tool.<br />
+**NOTE:** You must have the following env var exported in your **.xinitrc** file in order for qt5ct to work!
+```bash
+export QT_QPA_PLATFORMTHEME="qt5ct"
+```
 #### Here's a preview of how it looks when set
 ![img4](https://github.com/Vixtron/xfce/blob/master/images/qt5ct.png)
 
