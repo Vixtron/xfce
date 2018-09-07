@@ -5,8 +5,7 @@ My theme edits are found withing my repository listing on GitHub.
 <br />
 ##### Font config
 **NOTE:** Make sure to have [Blobmoji](https://github.com/C1710/blobmoji) installed for this to work!
-<br />
-`/etc/fonts/conf.d/01-notosans.conf`<br />
+**/etc/fonts/conf.d/01-notosans.conf**
 ```xml
 <?xml version="1.0" ?>
 <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
@@ -30,8 +29,7 @@ My theme edits are found withing my repository listing on GitHub.
   </match>
 </fontconfig>
 ```
-<br />
-`~/.config/fontconfig/fonts.conf`<br />
+**~/.config/fontconfig/fonts.conf**
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
