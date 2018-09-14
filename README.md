@@ -6,7 +6,7 @@ Cursor theme is [DMZ white](https://www.gnome-look.org/p/999970/), you can get t
 <br />
 
 **Getting the Konsole theme to work:** Move the 'Arc Dark.colors' file to **~/.kde4/share/apps/color-schemes/** and then select it in your profile editor.
-#### Font config
+
 **NOTE:** Make sure to have [Blobmoji](https://github.com/C1710/blobmoji) installed for this to work!<br />
 
 # Qt5 Arc Darker theme
