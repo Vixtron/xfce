@@ -7,8 +7,6 @@ Cursor theme is [DMZ white](https://www.gnome-look.org/p/999970/), you can get t
 
 **Getting the Konsole theme to work:** Move the 'Arc Dark.colors' file to **~/.kde4/share/apps/color-schemes/** and then select it in your profile editor.
 
-**NOTE:** Make sure to have [Blobmoji](https://github.com/C1710/blobmoji) installed for this to work!<br />
-
 # Qt5 Arc Darker theme
 I use [Kvantum](https://github.com/tsujan/Kvantum) which is set to use Arc Darker from [arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) in my Qt5ct configuration tool.<br />
 **NOTE:** You must have the following env var exported in your **.xinitrc** file in order for qt5ct to work!
