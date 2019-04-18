@@ -1,6 +1,6 @@
-# My xfce 4.12 setup on Xubuntu
+# My xfce 4.12 setup on Xubuntu/Arch
 
-**Description:** This is my xfce setup on the Xubuntu distribution, featuring Arc Darker terminal color scheme, dark and white elements, Qt5 Arc Darker theme and [Blobmoji](https://github.com/C1710/blobmoji) as system emojis. I used xfwm 4.13 for Epoxy. <br />
+**Description:** This is my xfce setup, featuring Arc terminal color scheme, dark and white elements, Qt5 Arc Darker theme and [Blobmoji](https://github.com/C1710/blobmoji) as system emojis. I used xfwm 4.13 for Epoxy. <br />
 My GTK theme edits are found in this [repository](https://github.com/Vixtron/Arc-Darker-FixedBorder), icon theme is [Papirus](https://github.com/Vixtron/Papirus). <br />
 Cursor theme is [DMZ white](https://www.gnome-look.org/p/999970/), you can get the dockbarx Windows 10 theme [here](https://github.com/Xseba360/DockBarX-Windows10)
 <br />
@@ -8,7 +8,8 @@ Cursor theme is [DMZ white](https://www.gnome-look.org/p/999970/), you can get t
 **Getting the Konsole theme to work:** Move the 'Arc Dark.colors' file to **~/.kde4/share/apps/color-schemes/** and then select it in your profile editor.
 <br>
 
-**Custom clock script:** `<span color="#ffffff" font_desc="16">%I:%M %p</span>`
+**Custom clock script:** `<span color="#ffffff" font_desc="16">%I:%M %p</span>` <br />
+**XFCE panel fix** There is a bug where `xfce4-panel` doesn't keep windows to the respected monitor's panel, add `dual-monitor.sh` to your autostart script to fix this issue if you have multiple monitors.
 
 # Qt5 Arc Darker theme
 I use [Kvantum](https://github.com/tsujan/Kvantum) which is set to use Arc Darker from [arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) in my Qt5ct configuration tool.<br />
