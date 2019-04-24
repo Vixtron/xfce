@@ -7,8 +7,8 @@ Cursor theme is [DMZ white](https://www.gnome-look.org/p/999970/), you can get t
 
 **Getting the Konsole theme to work:** Move the 'Arc Dark.colors' file to **~/.kde4/share/apps/color-schemes/** and then select it in your profile editor.
 <br />
-**Custom clock script:** `<span color="#ffffff" font_desc="16">%I:%M %p</span>` 
-<br />
+**Custom clock script:** `<span color="#ffffff" font_desc="16">%I:%M %p</span>` <br />
+
 **XFCE panel fix** There is a bug where `xfce4-panel` doesn't keep windows to the respected monitor's panel, add `dual-monitor.sh` to your autostart script to fix this issue if you have multiple monitors.
 
 # Qt5 Arc Darker theme
